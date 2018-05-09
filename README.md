@@ -1,2 +1,2 @@
 # Hello Fellow Humans
-just testing hello Humas on Github.
+just testing hello Humans on Github.
